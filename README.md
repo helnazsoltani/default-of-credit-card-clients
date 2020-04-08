@@ -1,5 +1,5 @@
 ## Default of Credit Card Clients
-### Helnaz Soltani            April 10/2020
+### Helnaz Soltani            April 10th, 2020
 
 
 ### Objectives:
